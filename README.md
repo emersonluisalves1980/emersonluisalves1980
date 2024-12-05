@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Engenharia de Software
 - 💞️ I’m looking to collaborate no Que For Do Meu CONHECIMENTO.
 - 📫 How to reach me emerson.alves@catolicasc.edu.br
-- 😄 Pronouns: ...
+- 😄 Pronouns: TODOS 
 - ⚡ Fun fact: sempre INTERESSADO à aprender MAIS a cada Momento.
 
 <!---
