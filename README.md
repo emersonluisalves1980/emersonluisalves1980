@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emersonluisalves1980
 - 👀 I’m interested in T.I.
 - 🌱 I’m currently learning Engenharia de Software
-- 💞️ I’m looking to collaborate on no Que For Do Meu CONHECIMENTO.
+- 💞️ I’m looking to collaborate no Que For Do Meu CONHECIMENTO.
 - 📫 How to reach me emerson.alves@catolicasc.edu.br
 - 😄 Pronouns: ...
 - ⚡ Fun fact: sempre INTERESSADO à aprender MAIS a cada Momento.
