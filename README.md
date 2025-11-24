@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emerson Luis Alves
 - 👀 I’m interested in area of T.I.
-- 🌱 I’m currently learning Engenharia de Software
+- 🌱 I’m currently Learning Engenharia de Software
 - 💞️ I’m looking To Collaborate No Que For Do Meu CONHECIMENTO.
 - 📫 How to reach me emerson.alves@catolicasc.edu.br
 - 😄 Pronouns: TODOS 
