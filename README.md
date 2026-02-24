@@ -3,7 +3,7 @@ Readme!
 <div align="center">
 <h1> 👋𝐎𝐥𝐚́, 𝐬𝐨𝐮 EMERSON LUIS ALVES</h1>
 <p>📍𝙀𝙢 𝙗𝙪𝙨𝙘𝙖 𝙙𝙖 𝙥𝙧𝙞𝙢𝙚𝙞𝙧𝙖 𝙤𝙥𝙤𝙧𝙩𝙪𝙣𝙞𝙙𝙖𝙙𝙚 𝙣𝙖 𝙖́𝙧𝙚𝙖 𝙙𝙚 𝙩𝙚𝙘𝙣𝙤𝙡𝙤𝙜𝙞𝙖 </p>
-  <h2> 👨🏻‍💻 𝐒𝐨𝐛𝐫𝐞 𝐦𝐢𝐦</h2>
+  <h2>𝐒𝐨𝐛𝐫𝐞 𝐦𝐢𝐦</h2>
 <p style="max-width: 700px;">
 𝑬𝒔𝒕𝒖𝒅𝒂𝒏𝒕𝒆 𝒅𝒆 𝑺𝒊𝒔𝒕𝒆𝒎𝒂𝒔 𝒅𝒆 𝑰𝒏𝒇𝒐𝒓𝒎𝒂𝒄̧𝒂̃𝒐, 𝒂𝒑𝒂𝒊𝒙𝒐𝒏𝒂𝒅𝒐 𝒑𝒐𝒓 𝒕𝒆𝒄𝒏𝒐𝒍𝒐𝒈𝒊𝒂 𝒆 𝒑𝒆𝒍𝒐 𝒑𝒐𝒅𝒆𝒓 𝒒𝒖𝒆 𝒐
 𝒄𝒐𝒏𝒉𝒆𝒄𝒊𝒎𝒆𝒏𝒕𝒐 𝒕𝒆𝒎 𝒅𝒆 𝒕𝒓𝒂𝒏𝒔𝒇𝒐𝒓𝒎𝒂𝒓 𝒓𝒆𝒂𝒍𝒊𝒅𝒂𝒅𝒆𝒔. 𝑬𝒏𝒄𝒐𝒏𝒕𝒓𝒐 𝒏𝒂 𝒑𝒓𝒂́𝒕𝒊𝒄𝒂 𝒐 𝒎𝒆𝒖 𝒎𝒂𝒊𝒐𝒓 𝒎𝒆𝒊𝒐
@@ -151,16 +151,14 @@ Readme!
   </table>
 </div>
   </p>
-<h2 align="center">📬 𝐂𝐨𝐧𝐭𝐚𝐭𝐨</h2>
+<h2 align="center">𝐂𝐨𝐧𝐭𝐚𝐭𝐨</h2>
 
 <div align="center">
   <div>
 <a href="https://www.linkedin.com/in/emerson-luis-alves-dev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn – emerson-luis-alves-dev"/></a>
-<a href="https://https://outlook.live.com/mail/0/" target="_blank">
-<img src="https://img.shields.io/badge/Hotmail-2F2F2F?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>  
-  <img width="2000" height="400" alt="header_ (1)" src="https://github.com/user-attachments/assets/9accf860-a8af-44a3-a84e-9433489ee681" />
+  <img width="2000" height="400" alt="header_ (1)" src="https://media.licdn.com/dms/image/v2/D4E16AQHezPH124M2dw/profile-displaybackgroundimage-shrink_200_800/B4EZXInnSLH0AU-/0/1742827583459?e=1773273600&v=beta&t=Mqmf2zN_MRjwWEvcfUuUAKTrX_t0J-_GJcCVhfVHzxQ" />
 
 
 <picture>
@@ -170,99 +168,3 @@ Readme!
 </picture>
 
 
-Main.yml
-
-
-name: Generate Datas
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    name: Jobs to update datas
-    runs-on: ubuntu-latest
-    steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: seu-usuário-aqui
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-
-Pacman.yml
-
-name: Generate pacman animation
-
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
-  workflow_dispatch:
-
-  push:
-    branches:
-    - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    steps:
-      - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-
-
-      - name: push pacman-contribution-graph.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-
-Pacman2.yml
-
-name: Generate pacman animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"   # executa a cada 12h
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    steps:
-      - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: luiizz72
-
-      - name: push pacman-contribution-graph.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
