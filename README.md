@@ -157,8 +157,8 @@ Readme!
   <div>
 <a href="https://www.linkedin.com/in/emerson-luis-alves-dev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn – emerson-luis-alves-dev"/></a>
-<a href="https://[mail.google.com/mail/?view=cm&to=luiz991675232@gmail.com](https://outlook.live.com/mail/0/)" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-2F2F2F?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://https://outlook.live.com/mail/0/" target="_blank">
+<img src="https://img.shields.io/badge/Hotmail-2F2F2F?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>  
   <img width="2000" height="400" alt="header_ (1)" src="https://github.com/user-attachments/assets/9accf860-a8af-44a3-a84e-9433489ee681" />
 
