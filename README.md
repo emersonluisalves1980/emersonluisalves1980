@@ -10,7 +10,7 @@ Readme!
 𝒅𝒆 𝒂𝒑𝒓𝒆𝒏𝒅𝒊𝒛𝒂𝒅𝒐, 𝒃𝒖𝒔𝒄𝒂𝒏𝒅𝒐 𝒆𝒗𝒐𝒍𝒖𝒊𝒓 𝒕𝒐𝒅𝒐𝒔 𝒐𝒔 𝒅𝒊𝒂𝒔 𝒆 𝒕𝒓𝒂𝒏𝒔𝒇𝒐𝒓𝒎𝒂𝒓 𝒊𝒅𝒆𝒊𝒂𝒔 𝒆𝒎 𝒑𝒓𝒐𝒋𝒆𝒕𝒐𝒔
 𝒓𝒆𝒂𝒊𝒔 𝒄𝒐𝒎 𝒅𝒆𝒅𝒊𝒄𝒂𝒄̧𝒂̃𝒐 𝒆 𝒑𝒓𝒐𝒑𝒐́𝒔𝒊𝒕𝒐, "POIS A PRÁTICA LEVA A PERFEIÇÃO"!
 </p>
-https://www.linkedin.com/in/emerson-luis-alves-dev/overlay/background-photo/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B2glvErXgTreCM3xcTgHqkA%3D%3D
+
  <div class="markdown-heading" dir="auto">
   <h1 class="heading-element" dir="auto">
     𝐌𝐢𝐧𝐡𝐚𝐬 𝐟𝐞𝐫𝐫𝐚𝐦𝐞𝐧𝐭𝐚𝐬 𝐞 𝐭𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚𝐬 𝐟𝐚𝐯𝐨𝐫𝐢𝐭𝐚𝐬
