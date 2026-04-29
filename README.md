@@ -151,15 +151,6 @@ Readme!
   </table>
 </div>
   </p>
-<h2 align="center">𝐂𝐨𝐧𝐭𝐚𝐭𝐨</h2>
-
-<div align="center">
-  <div>
-<a href="https://www.linkedin.com/in/emerson-luis-alves-dev/" target="_blank">
-  <img src="https://www.linkedin.com/in/emerson-luis-alves-dev/overlay/background-photo/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bo3SvYq6GRzqc1DToaszL5Q%3D%3D"/></a>
-</div>  
-  <img [width="2000" height="400" alt="header_ (1)" src="https://media.licdn.com/dms/image/v2/D4E16AQHezPH124M2dw/profile-displaybackgroundimage-shrink_200_800/B4EZXInnSLH0AU-/0/1742827583459?e=1773273600&v=beta&t=Mqmf2zN_MRjwWEvcfUuUAKTrX_t0J-_GJcCVhfVHzxQ](https://media.licdn.com/dms/image/v2/D4E16AQHezPH124M2dw/profile-displaybackgroundimage-shrink_350_1400/B4EZXInnSLH0AY-/0/1742827583459?e=1778716800&v=beta&t=_pHmxHa2mPcM0LDoAzeiBuYG8Sywe-rkcgKrZZRYoBA)" />
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luiizz72/luiizz72/output/pacman-contribution-graph-dark.svg">
