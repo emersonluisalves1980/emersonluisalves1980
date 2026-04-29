@@ -16,7 +16,7 @@ Readme!
     𝐌𝐢𝐧𝐡𝐚𝐬 𝐟𝐞𝐫𝐫𝐚𝐦𝐞𝐧𝐭𝐚𝐬 𝐞 𝐭𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚𝐬 𝐟𝐚𝐯𝐨𝐫𝐢𝐭𝐚𝐬
   </h1>
 
-  <a
+  <a>
     id="user-content--my-favorite-tools-and-technologies"
     class="anchor"
     aria-label="Permalink: 💻 My favorite tools and technologies"
