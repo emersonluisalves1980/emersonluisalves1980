@@ -1,5 +1,3 @@
-Readme!
-
 <div align="center">
 <h1> 👋𝐎𝐥𝐚́, 𝐬𝐨𝐮 EMERSON LUIS ALVES</h1>
 <p>𝙀𝙢 𝙗𝙪𝙨𝙘𝙖 𝙙𝙖 𝙥𝙧𝙞𝙢𝙚𝙞𝙧𝙖 𝙤𝙥𝙤𝙧𝙩𝙪𝙣𝙞𝙙𝙖𝙙𝙚 𝙣𝙖 𝙖́𝙧𝙚𝙖 𝙙𝙚 𝙩𝙚𝙘𝙣𝙤𝙡𝙤𝙜𝙞𝙖 </p>
