@@ -148,8 +148,7 @@
     </tbody>
   </table>
 </div>
-  </p>
-
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luiizz72/luiizz72/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luiizz72/luiizz72/output/pacman-contribution-graph.svg">
