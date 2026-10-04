@@ -2,10 +2,7 @@
 <h1> 👋𝐎𝐥𝐚́, 𝐬𝐨𝐮 EMERSON LUIS ALVES</h1>
   
 <p style="max-width: 700px;">
-𝑬𝒔𝒕𝒖𝒅𝒂𝒏𝒕𝒆 𝒅𝒆 𝑺𝒊𝒔𝒕𝒆𝒎𝒂𝒔 𝒅𝒆 𝑰𝒏𝒇𝒐𝒓𝒎𝒂𝒄̧𝒂̃𝒐, 𝒂𝒑𝒂𝒊𝒙𝒐𝒏𝒂𝒅𝒐 𝒑𝒐𝒓 𝒕𝒆𝒄𝒏𝒐𝒍𝒐𝒈𝒊𝒂 𝒆 𝒑𝒆𝒍𝒐 𝒑𝒐𝒅𝒆𝒓 𝒒𝒖𝒆 𝒐
-𝒄𝒐𝒏𝒉𝒆𝒄𝒊𝒎𝒆𝒏𝒕𝒐 𝒕𝒆𝒎 𝒅𝒆 𝒕𝒓𝒂𝒏𝒔𝒇𝒐𝒓𝒎𝒂𝒓 𝒓𝒆𝒂𝒍𝒊𝒅𝒂𝒅𝒆𝒔. 𝑬𝒏𝒄𝒐𝒏𝒕𝒓𝒐 𝒏𝒂 𝒑𝒓𝒂́𝒕𝒊𝒄𝒂 𝒐 𝒎𝒆𝒖 𝒎𝒂𝒊𝒐𝒓 𝒎𝒆𝒊𝒐
-𝒅𝒆 𝒂𝒑𝒓𝒆𝒏𝒅𝒊𝒛𝒂𝒅𝒐, 𝒃𝒖𝒔𝒄𝒂𝒏𝒅𝒐 𝒆𝒗𝒐𝒍𝒖𝒊𝒓 𝒕𝒐𝒅𝒐𝒔 𝒐𝒔 𝒅𝒊𝒂𝒔 𝒆 𝒕𝒓𝒂𝒏𝒔𝒇𝒐𝒓𝒎𝒂𝒓 𝒊𝒅𝒆𝒊𝒂𝒔 𝒆𝒎 𝒑𝒓𝒐𝒋𝒆𝒕𝒐𝒔
-𝒓𝒆𝒂𝒊𝒔 𝒄𝒐𝒎 𝒅𝒆𝒅𝒊𝒄𝒂𝒄̧𝒂̃𝒐 𝒆 𝒑𝒓𝒐𝒑𝒐́𝒔𝒊𝒕𝒐, "POIS A PRÁTICA LEVA A PERFEIÇÃO"!
+ Estudante de gestaão de Tecnologia da ingormação, Programação e Cibersegurança, apaixonado por tecnologia e pelo poder que ela tem de transformar idéias em projetos reais. Encontro na prática o meu maior meio de aprendizado, buscando evoluir sempre com dedicação e peopósito, “pois a prática leva à pereição”!
 </p>
 
  <div class="markdown-heading" dir="auto">
